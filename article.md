@@ -1,4 +1,5 @@
 **Is Event-Driven Architecture a One-Size-Fits-All Solution for Microservices? My Take **
+
 With the growing focus on scalable, agile, and resilient platforms, how we design microservices is a question that’s front and center in tech strategy. I’ve recently been working with both event-driven and asynchronous patterns and wanted to share some insights based on that experience. 
 
 **The Case for Event-Driven Architecture in Microservices**
